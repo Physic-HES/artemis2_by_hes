@@ -17,7 +17,7 @@ El trabajo se divide en dos fases críticas:
 *   `artemis_pred_with_burns_v2.py`: Código principal de simulación que realiza la integración por bloques utilizando el integrador de paso adaptativo DOP853.
 *   `artemis_get_burns.mp4`: Video demostrativo del proceso de captura de encendidos nominales y correcciones.
 *   `OEM_2026.04.02_post_USS_to_EI_v2.asc`: Datos de telemetría original en formato OEM (Orbit Ephemeris Message).
-*   `aceleracion_motores.asc`: Aceleraciones obtenidas a partir de la comparacion de velocidades Modelo-Realidad.
+*   `aceleracion_motores.csv`: Aceleraciones obtenidas a partir de la comparacion de velocidades Modelo-Realidad.
 
 ## Marco Teórico
 
