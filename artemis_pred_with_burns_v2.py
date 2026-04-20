@@ -7,16 +7,7 @@ from datetime import datetime
 from scipy.integrate import solve_ivp
 from scipy.interpolate import interp1d
 import matplotlib.gridspec as gridspec
-
-# Intentar importar tqdm para barra de progreso, si no definir dummy
-try:
-    from tqdm import tqdm
-except ImportError:
-    class tqdm:
-        def __init__(self, iterable=None, **kwargs): self.iterable = iterable
-        def __iter__(self): return iter(self.iterable)
-        def update(self, n=1): pass
-        def close(self): pass
+from tqdm import tqdm
 
 # --- CONFIGURACIÓN Y CARGA DE DATOS ---
 DATA_PATH = 'OEM_2026.04.02_post_USS_to_EI_v2.asc'
