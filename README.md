@@ -1,6 +1,6 @@
 # Simulación Numérica de la Misión Artemis II
 
-Este repositorio contiene el desarrollo, los códigos y los resultados de una simulación numérica de la trayectoria de la cápsula Orion durante la misión **Artemis II**. El proyecto fue realizado como un trabajo inicial de la materia **Mecánica Clásica**, dictada en el primer cuatrimestre de 2026 por el **Prof. Ricardo Mindlin** en la Licenciatura en Ciencias Físicas de la **Universidad de Buenos Aires (UBA)**.
+Este repositorio contiene el desarrollo, los códigos y los resultados de una simulación numérica de la trayectoria de la cápsula Orion durante la misión **Artemis II**. El proyecto fue realizado como un trabajo inicial de la materia **Mecánica Clásica**, dictada en el primer cuatrimestre de 2026 por el **Prof. Gabriel Mindlin** en la Licenciatura en Ciencias Físicas de la **Universidad de Buenos Aires (UBA)**.
 
 ## Resumen del Proyecto
 
